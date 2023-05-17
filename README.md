@@ -1,5 +1,5 @@
 # GNN-based Preference Modeling for Fake News Detection - Analysis and Modification of a Novel Approach
 
-**Abstract**
+## Abstract
 
 This project investigates the use of Graph Neural Network (GNN) frameworks for fake news detection while considering both Exogenous and Endogenous Features. The project comprises two parts: Modifying GraphSAGE and exploring alternative GNN frameworks. In the first part, GraphSAGE is modified with different Multi-Layer Perceptron (MLP) configurations and evaluated on GossipCop and Politifact datasets. The results indicate that increasing MLP layers can improve performance. The second part examines the replacement of GraphSAGE with Graph Attention Network (GAT) and Graph Isomorphism Network (GIN) on the same datasets. Our findings suggest that GAT and GIN may not be suitable for these tasks and datasets, as they show no significant improvement compared to the baseline model. Overall, the study provides insights into the effectiveness of various GNN frameworks for fake news detection.
