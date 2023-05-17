@@ -13,10 +13,10 @@ Contains implementations of the Graph Attention Network as the Graph Encoder and
 Contains implementations of the Graph Isomorphic Network as the Graph Encoder and BERT and Content as the Textual Encoders. The Models are implemented on both the Gossipcop as well as the Politifact Datasets. 
 
 ## GRAPHSAGE_GOSSIPCOP Folder: 
-Contains the 3 Proposed Modifications on the UPFD Baseline Model using GraphSAGE as the Graph Encoder and BERT and Content as the Textual Encoders. The models are implemented on the GossipCop Dataset. 
+Contains 3 Proposed Modifications on the UPFD Baseline Model using GraphSAGE as the Graph Encoder and BERT and Content as the Textual Encoders. The models are implemented on the GossipCop Dataset. 
 
 ## GRAPHSAGE_CONTENT Folder: 
-Contains the 3 Proposed Modifications on the UPFD Baseline Model using GraphSAGE as the Graph Encoder and BERT and Content as the Textual Encoders. The model is implemented on the Content Dataset. 
+Contains 3 Proposed Modifications on the UPFD Baseline Model using GraphSAGE as the Graph Encoder and BERT and Content as the Textual Encoders. The model is implemented on the Content Dataset. 
 
 ## PLOTS Folder: 
 Consists of Plots for different combination of Graph( GIN and GAT) and Text Encoders for both the Politifact and Gossipcop Datasets.
