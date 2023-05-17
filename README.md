@@ -19,5 +19,5 @@ Contains the 3 Proposed Modifications on the UPFD Baseline Model using GraphSAGE
 Contains the 3 Proposed Modifications on the UPFD Baseline Model using GraphSAGE as the Graph Encoder and BERT and Content as the Textual Encoders. The model is implemented on the Content Dataset. 
 
 ## PLOTS Folder: 
-Consists of THE Plots for different combination of Graph( GIN and GAT) and Text Encoders for both the Politifact and Gossipcop Datasets.
+Consists of Plots for different combination of Graph( GIN and GAT) and Text Encoders for both the Politifact and Gossipcop Datasets.
 
