@@ -1,4 +1,4 @@
-#GNN-based Preference Modeling for Fake News Detection - Analysis and Modification of a Novel Approach
+##GNN-based Preference Modeling for Fake News Detection - Analysis and Modification of a Novel Approach
 
 **Abstract**
 
