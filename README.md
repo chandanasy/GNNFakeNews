@@ -6,10 +6,10 @@ This project investigates the use of Graph Neural Network (GNN) frameworks for f
 
 ## Folder Descriptions: 
 
-## The GAT Folder:
+## GAT Folder:
 Contains implementations of the Graph Attention Network as the Graph Encoder and BERT and Content as the Textual Encoders. The Models are implemented on both the Gossipcop as well as the Politifact Datasets. 
 
-## The GIN Folder:
+## GIN Folder:
 Contains implementations of the Graph Isomorphic Network as the Graph Encoder and BERT and Content as the Textual Encoders. The Models are implemented on both the Gossipcop as well as the Politifact Datasets. 
 
 ## GRAPHSAGE_GOSSIPCOP Folder: 
